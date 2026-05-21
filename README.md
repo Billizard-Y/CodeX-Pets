@@ -6,7 +6,7 @@ Custom pets for Codex Desktop.
 
 ### Hoop Chick
 
-A yellow basketball chick with gray middle-part bowl-cut hair, blue overalls, white sneakers, an orange basketball, and a sleepy idle nose bubble.
+A yellow basketball chick with gray middle-part bowl-cut hair, blue overalls, white sneakers, an orange basketball, a sleepy idle nose bubble, and a startled hover jump.
 
 ![Hoop Chick contact sheet](hoop-chick/preview/contact-sheet.png)
 

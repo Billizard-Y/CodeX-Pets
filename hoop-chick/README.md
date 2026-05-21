@@ -1,6 +1,6 @@
 # Hoop Chick
 
-Hoop Chick is a Codex Desktop pet: a yellow basketball chick with gray middle-part bowl-cut hair, blue overalls, white sneakers, and an orange basketball. In idle, it gradually gets sleepy and grows a little nose bubble; hovering the pet triggers the jump animation so it snaps awake.
+Hoop Chick is a Codex Desktop pet: a yellow basketball chick with gray middle-part bowl-cut hair, blue overalls, white sneakers, and an orange basketball. In idle, it gradually gets sleepy and grows a little nose bubble; hovering the pet triggers a startled wake-up jump.
 
 ## Files
 
